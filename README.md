@@ -22,7 +22,6 @@
 |0|Alfalfa is the only cure for COVID-19.	|0|
 
 
-> **注意：提供的样本示例`train_data.sample`仅为帮助理解赛题以及调通代码，由于样本示例仅为两万行，因此构造的出来的特征意义不大（数据严重泄露）。**
 
 ## 模型架构：
 
@@ -45,4 +44,4 @@
 
 感兴趣就给个star吧:-D
 
-**最后感谢两位队友@Han和@hcccccccc**
+**最后感谢两位队友@SwordFaith
