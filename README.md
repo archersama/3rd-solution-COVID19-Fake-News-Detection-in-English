@@ -44,4 +44,4 @@
 
 感兴趣就给个star吧:-D
 
-**最后感谢两位队友@SwordFaith
+**最后感谢队友@SwordFaith
