@@ -7,7 +7,7 @@
 
 第三名解决方案，包含全部代码、评测论文以及我们搜集的额外数据和官方数据.
 
-论文已经被接受AAAI 2021 First Workshop on Combating Online Hostile Posts in Regional Languages during Emergency Situation接收
+论文已经被接受AAAI 2021 First Workshop on Combating Online Hostile Posts in Regional Languages during Emergency Situation接收，并在研讨会上进行宣讲
 
 ## 赛题描述：
 英文COVID19假新闻检测-此子任务重点在于用英语检测与COVID19相关的假新闻。数据源是各种社交媒体平台，例如Twitter，Facebook，Instagram等。给定社交媒体帖子，共享任务的目的是将其分类为假新闻或真实新闻。
@@ -30,10 +30,6 @@
 在本文中一共使用了两个模型,分别基于双向LSTM和transformers架构
 
 1.双向LSTM
-
-
-
-
 
 
 
