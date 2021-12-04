@@ -41,6 +41,19 @@
 ## 算力要求
 在谷歌kaggle平台的tpu进行训练
 
+## 论文链接
+https://arxiv.org/abs/2101.02359
+
+## 引用我们的工作
+```
+@article{li2021exploring,
+  title={Exploring text-transformers in aaai 2021 shared task: Covid-19 fake news detection in english},
+  author={Li, Xiangyang and Xia, Yu and Long, Xiang and Li, Zheng and Li, Sujian},
+  journal={arXiv preprint arXiv:2101.02359},
+  year={2021}
+}
+```
+
 ------------------
 
 感兴趣就给个star吧:-D
