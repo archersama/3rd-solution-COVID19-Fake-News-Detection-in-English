@@ -5,7 +5,7 @@
 
 [Constraint@AAAI2021 - COVID19 Fake News Detection in English](https://competitions.codalab.org/competitions/26655)
 
-## [(English Version)](https://github.com/archersama/3rd-solution-COVID19-Fake-News-Detection-in-English/blob/main/readme(en).md)
+## [(English Readme)](https://github.com/archersama/3rd-solution-COVID19-Fake-News-Detection-in-English/blob/main/readme(en).md)
 
 
 第三名解决方案，包含全部代码、评测论文以及我们搜集的额外数据和官方数据.
